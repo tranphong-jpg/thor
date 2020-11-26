@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Js 10</title>
+</head>
+<body>
+     <h1 id="head1">Tiêu đề trang</h1>
+     <p id="p1">Nghiên cứu chính quyền đô thị ở TP Hải Phòng</p>
+
+     <script type="text/javascript"
+             function demo(){
+                 var h = doucument.getElementById("head1")
+                 h.inmerText = "Tiêu đề sau khi chỉnh sửa";
+                 var pp = doucument.getElementById("p1");
+                 pp. style.color = "red";
+                 pp.style.fontsize = "18px";
+                 var text = pp.innerText;//string
+             pp.innerHTML = "<span>"+text+"</body>span>";
+             pp.classList.add("abc") ; // them class abc
+             pp.classList.remove("xyz") ; // th
+             setTimeout(demo,3000);
+
+     </script>
+</body>
+</html>
