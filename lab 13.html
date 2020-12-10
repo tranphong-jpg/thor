@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Google Map</title>
+    <link rel="stylesheet" href="libs/bootstrap.3.4.1/css/bootstrap.css">
+    <link rel="stylesheet" href="css/demogooglemap.css">
+</head>
+<body>
+<section class="section">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="imgs/ngoctrinhmuonsinhcon1_swej.jpg"/>
+        </div>
+        <div class="col-md-6">
+            <div id="map">
+            </div>
+        </div>
+    </div>
+</section>
+<script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaj0mHlR-keu-9hsR6d-gB0L9BclG04rk&callback=initMap&libraries=&v=weekly"
+        defer
+></script>
+<script>
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(initMap);
+    }
+    let map;
+    function initMap(position) {
+        let current;
+        if(window.localStorage.getItem("position")){
+            current = window.localStorage.getItem("position");
+            current = JSON.parse(current);
+        }else {
+            current = {
+                lat: position.coords.latitude,
+                lng:position.coords.longitude
+            }
+            window.localStorage.setItem("position",JSON.stringify(current));
+        }
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: current,
+            zoom: 16,
+        });
+        const marker = new google.maps.Marker({
+            position: current,
+            map: map,
+        });
+    }
+</script>
+</body>
+</html>
