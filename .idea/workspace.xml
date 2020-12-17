@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d985f938-3231-4387-b0f7-da055884ba61" name="Default Changelist" comment="" />
+    <list default="true" id="d985f938-3231-4387-b0f7-da055884ba61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +14,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -67,7 +69,7 @@
       <workItem from="1607598621722" duration="4224000" />
       <workItem from="1607771203094" duration="4038000" />
       <workItem from="1608030680422" duration="6210000" />
-      <workItem from="1608207325528" duration="3322000" />
+      <workItem from="1608207325528" duration="4571000" />
     </task>
     <task id="LOCAL-00001" summary="điền vào chỗ trống">
       <created>1604132336087</created>
@@ -146,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608210344295</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="điền vào chỗ trống">
+      <created>1608210677177</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608210677177</updated>
+    </task>
+    <task id="LOCAL-00013" summary="điền vào chỗ trống">
+      <created>1608210888845</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608210888845</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,19 +181,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604402266093" />
-    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1608210342739">
+    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1608210887745">
       <screen x="0" y="0" width="1291" height="768" />
     </state>
     <state x="284" y="0" key="CommitChangelistDialog2/0.0.1288.768@0.0.1288.768" timestamp="1606832011834" />
-    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1291.768@0.0.1291.768" timestamp="1608210342739" />
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1291.768@0.0.1291.768" timestamp="1608210887745" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604401384869" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604402105125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604402105125" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604132383098">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="260" y="101" key="Vcs.Push.Dialog.v2" timestamp="1608211853486">
+      <screen x="0" y="0" width="1291" height="768" />
     </state>
+    <state x="260" y="101" key="Vcs.Push.Dialog.v2/0.0.1291.768@0.0.1291.768" timestamp="1608211853486" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604132383098" />
     <state x="0" y="100" width="553" height="756" key="dock-window-1" timestamp="1606828730553">
       <screen x="0" y="0" width="1288" height="768" />
