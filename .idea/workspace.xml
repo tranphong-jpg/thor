@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d985f938-3231-4387-b0f7-da055884ba61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jdRXucg37whGITBRhaRmrt7Uo7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d985f938-3231-4387-b0f7-da055884ba61" name="Default Changelist" comment="" />
+      <created>1604132025084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604132025084</updated>
+      <workItem from="1604132026244" duration="21559000" />
+      <workItem from="1604573961893" duration="8081000" />
+      <workItem from="1605006664262" duration="9592000" />
+      <workItem from="1605179273053" duration="3552000" />
+      <workItem from="1605183073217" duration="600000" />
+      <workItem from="1605184175491" duration="4319000" />
+      <workItem from="1605604902948" duration="17000" />
+      <workItem from="1605613548852" duration="4200000" />
+      <workItem from="1605784283243" duration="6926000" />
+      <workItem from="1606216259979" duration="16394000" />
+      <workItem from="1606550006144" duration="3267000" />
+      <workItem from="1606821283881" duration="4907000" />
+      <workItem from="1607426444501" duration="4179000" />
+      <workItem from="1607598621722" duration="4224000" />
+      <workItem from="1607771203094" duration="4038000" />
+      <workItem from="1608030680422" duration="6210000" />
+      <workItem from="1608207325528" duration="3322000" />
+    </task>
+    <task id="LOCAL-00001" summary="điền vào chỗ trống">
+      <created>1604132336087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604132336087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="điền vào chỗ trống">
+      <created>1604145458766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604145458766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="điền vào chỗ trống">
+      <created>1605009502306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605009502306</updated>
+    </task>
+    <task id="LOCAL-00004" summary="điền vào chỗ trống">
+      <created>1605009645773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605009645773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="điền vào chỗ trống">
+      <created>1605793037681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605793037685</updated>
+    </task>
+    <task id="LOCAL-00006" summary="điền vào chỗ trống">
+      <created>1606399568553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606399568553</updated>
+    </task>
+    <task id="LOCAL-00007" summary="điền vào chỗ trống">
+      <created>1606832006899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606832006899</updated>
+    </task>
+    <task id="LOCAL-00008" summary="điền vào chỗ trống">
+      <created>1607610010060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607610010060</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Bài thi thực hành">
+      <created>1608209300748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608209300748</updated>
+    </task>
+    <task id="LOCAL-00010" summary="điền vào chỗ trống">
+      <created>1608209442864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608209442864</updated>
+    </task>
+    <task id="LOCAL-00011" summary="điền vào chỗ trống">
+      <created>1608210344295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608210344295</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bài thi thực hành" />
+    <MESSAGE value="điền vào chỗ trống" />
+    <option name="LAST_COMMIT_MESSAGE" value="điền vào chỗ trống" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604402266093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604402266093" />
+    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1608210342739">
+      <screen x="0" y="0" width="1291" height="768" />
+    </state>
+    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1288.768@0.0.1288.768" timestamp="1606832011834" />
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1291.768@0.0.1291.768" timestamp="1608210342739" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604401384869" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604402105125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604402105125" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604132383098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604132383098" />
+    <state x="0" y="100" width="553" height="756" key="dock-window-1" timestamp="1606828730553">
+      <screen x="0" y="0" width="1288" height="768" />
+    </state>
+    <state x="0" y="100" width="553" height="756" key="dock-window-1/0.0.1288.768@0.0.1288.768" timestamp="1606828730553" />
+    <state x="765" y="35" width="469" height="665" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1604577971891" />
+    <state x="846" y="65" width="312" height="529" key="dock-window-2" timestamp="1605182032918">
+      <screen x="0" y="0" width="1288" height="768" />
+    </state>
+    <state x="846" y="65" width="312" height="529" key="dock-window-2/0.0.1288.768@0.0.1288.768" timestamp="1605182032918" />
+    <state x="898" y="23" width="385" height="716" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1604577971891" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604575509621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604575509621" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1604132154282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604132154282" />
+  </component>
+</project>
